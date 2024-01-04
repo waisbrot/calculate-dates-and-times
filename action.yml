@@ -11,5 +11,5 @@ outputs:
   date:
     description: The resulting date and/or time
 runs:
-  using: node12
+  using: node16
   main: dist/index.js
